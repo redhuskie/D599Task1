@@ -1,0 +1,17 @@
+Column,Data_Type,Missing_Data_Count,Missing_Data_Percentage,Absurd_Values,Outlier_Count,Whitespace_Issues,Case_Inconsistencies
+EmployeeNumber,int64,0,0.0,0,0,0,0
+Age,int64,0,0.0,0,0,0,0
+Tenure,int64,0,0.0,0,0,0,0
+Turnover,object,0,0.0,0,0,0,0
+HourlyRate ,object,0,0.0,0,0,10199,0
+HoursWeekly,int64,0,0.0,0,0,0,0
+CompensationType,object,0,0.0,0,0,0,0
+AnnualSalary,float64,0,0.0,57,544,0,0
+DrivingCommuterDistance,int64,0,0.0,1361,245,0,0
+JobRoleArea,object,0,0.0,0,0,0,0
+Gender,object,0,0.0,0,0,0,0
+MaritalStatus,object,0,0.0,0,0,0,0
+NumCompaniesPreviouslyWorked,float64,665,6.52,0,0,0,0
+AnnualProfessionalDevHrs,float64,1969,19.31,0,0,0,0
+PaycheckMethod,object,0,0.0,0,0,0,0
+TextMessageOptIn,object,2266,22.22,0,0,0,0
